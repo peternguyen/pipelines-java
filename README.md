@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/nguyennpeter/first%20pipeline/_apis/build/status/peternguyen.pipelines-java?branchName=master)](https://dev.azure.com/nguyennpeter/first%20pipeline/_build/latest?definitionId=2&branchName=master)
+[![Build Status](https://dev.azure.com/nguyennpeter/pipelines-java/_apis/build/status/peternguyen.pipelines-java?branchName=master)](https://dev.azure.com/nguyennpeter/pipelines-java/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
